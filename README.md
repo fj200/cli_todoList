@@ -1,2 +1,10 @@
-# cli_todoList
-The provided script is a Node.js CLI tool that allows users to manage tasks. It reads and writes tasks to a tasks.json file in the current working directory. The tasks are stored as a map where the key is the task ID and the value is an object containing the task title and status.
+Task CLI Tool
+Welcome to the Task CLI Tool! This command-line interface (CLI) tool allows you to manage your tasks efficiently. You can add, delete, update, and list tasks using simple commands. The tasks are stored in a JSON file in your current working directory.
+
+Features
+Add a new task
+Delete an existing task
+Update an existing task
+Mark tasks as "in-progress" or "done"
+List tasks with optional status filter
+Help command to list available commands
